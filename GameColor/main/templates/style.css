@@ -1,0 +1,17 @@
+*{
+    margin : 0;
+    padding : 0;
+    background-color: black;
+    color: white;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 50%;
+}
+.game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
